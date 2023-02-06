@@ -1,3 +1,6 @@
+.ipynbcheckpoint
+_pycache_
+
 # Prerequisites
 *.d
 
